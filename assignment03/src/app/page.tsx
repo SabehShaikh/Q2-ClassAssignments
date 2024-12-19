@@ -21,7 +21,7 @@ export default function Home() {
       <div className="w-1/2 flex justify-center ">
         <Image
           className="w-[502px] h-[465px]"
-          src={"/images/bg-image.jfif"}
+          src={"/images/bg-image.jpg"}
           alt="image"
           width={502}
           height={465}
