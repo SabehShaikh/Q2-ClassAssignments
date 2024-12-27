@@ -48,16 +48,18 @@ const Hero = () => {
           </div>
         </div>
 
-        {/* Right Side */}
-        <div className="w-full lg:w-1/2 flex justify-center">
-          <Image
-            src="/images/herocover.png"
-            alt="Governor"
-            width={500}
-            height={800}
-            className="h-auto min-w-[600px] ml-[40px] lg:min-w-[900px]"
-          />
-        </div>
+        <div className="w-full lg:w-1/2 flex justify-center relative">
+  <Image
+    src="/images/herocover.png"
+    alt="Governor"
+    width={500}
+    height={800}
+    className="h-auto w-full max-w-[600px] lg:max-w-[900px]"
+  />
+</div>
+
+
+        
       </div>
     </div>
   );
