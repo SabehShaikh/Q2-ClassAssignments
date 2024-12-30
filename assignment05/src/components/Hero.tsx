@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react";
 
 const Hero = () => {
   return (
-    <div className="bg-[#043873] bg-[url(/Images/Lines.png)] bg-cover text-white h-screen flex flex-col items-center lg:flex-row py-12 md:py-16 lg:py-0 px-8 lg:px-16">
+    <div className="bg-[#043873] bg-[url(/Images/Lines.png)] bg-cover text-white flex flex-col items-center lg:flex-row py-16 md:py-20 lg:py-24 px-8 lg:px-16">
       {/* Left Section: Text Content */}
       <div className="flex flex-col gap-6 justify-center text-center lg:text-left lg:w-1/2">
         <h1 className="font-bold text-4xl md:text-5xl lg:text-[64px] leading-tight">
