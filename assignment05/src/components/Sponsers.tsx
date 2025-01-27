@@ -13,7 +13,7 @@ const Sponsors = () => {
         <div className="flex items-center justify-center p-4 rounded-lg hover:shadow-md transition-shadow duration-300 group">
           <div className="flex items-center justify-center w-full">
             <Image
-              src="/Images/Apple.jpg"
+              src="/images/Apple.jpg"
               alt="Apple"
               width={58}
               height={68}
@@ -27,7 +27,7 @@ const Sponsors = () => {
         <div className="flex items-center justify-center p-4 rounded-lg hover:shadow-md transition-shadow duration-300 group">
           <div className="flex items-center justify-center w-full">
             <Image
-              src="/Images/Microsoft.png"
+              src="/images/Microsoft.png"
               alt="Microsoft"
               width={287}
               height={62}
@@ -41,7 +41,7 @@ const Sponsors = () => {
         <div className="flex items-center justify-center p-4 rounded-lg hover:shadow-md transition-shadow duration-300 group">
           <div className="flex items-center justify-center w-full">
             <Image
-              src="/Images/Slack_Technologies_Logo 1.png"
+              src="/images/Slack_Technologies_Logo 1.png"
               alt="Slack"
               width={280}
               height={71}
@@ -55,7 +55,7 @@ const Sponsors = () => {
         <div className="flex items-center justify-center p-4 rounded-lg hover:shadow-md transition-shadow duration-300 group">
           <div className="flex items-center justify-center w-full">
             <Image
-              src="/Images/Goggle.png"
+              src="/images/Goggle.png"
               alt="Google"
               width={211}
               height={70}

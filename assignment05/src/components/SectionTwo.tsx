@@ -8,7 +8,7 @@ const SectionTwo = () => {
       {/* Left Section: Image */}
       <div className="w-full lg:w-1/2 flex justify-center items-center order-2 lg:order-1">
         <Image
-          src="/Images/Eclipse.png"
+          src="/images/Eclipse.png"
           alt="Eclipse Decoration"
           width={400}
           height={400}
